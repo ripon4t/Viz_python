@@ -41,15 +41,15 @@ Feel free to check out some of the projects I’ve worked on as part of this cou
 
 ### 🏆 Certificates and Badges
 
-![Certificate Link](https://coursera.org/verify/IUU5M0V1MI0M)
+![Certificate Link](https://coursera.org/verify/)
 #### Certificate:
 <p align="center">
-  <img width= "750 height "400" src="https://github.com/snmhoque123/Data_visualization_Python/blob/main/Visualization_Python_Certificate.png">
+  <img width= "750 height "400" src="https://github.io">
 </p>
 
 #### Badge:
 <p align="center">
-  <img width= "230 height "150" src="https://github.com/snmhoque123/Data_visualization_Python/blob/main/data_visualisation%20badge.png">
+  <img width= "230 height "150" src="https://ripon4t.github.io/Python/blob/main/data_visualisation%20badge.png">
 </p>
     
 As a proud recipient of the Coursera course certificate, I've also earned an IBM digital badge, marking a significant milestone in my data science journey.
