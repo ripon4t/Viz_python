@@ -2,7 +2,7 @@
 
 # IBM Data Visualization with Python
 ## Level: Intermediate
-### List of Python Visualization Projects: <a href="[https://github.com/snmhoque123/python_project/blob/main/Home%20Sales%20in%20King%20Count%20Usa.ipynb](https://github.com/snmhoque123/Data_visualization_Python)"> Python Project completed on the course </a>
+### List of Python Visualization Projects: <a href="[https://ripon4t.github.io/Viz_python/blob/main/Home%20Sales%20in%20King%20Count%20Usa.ipynb](https://ripon4t.github.io/Viz_python/blob/main/Viz_python)"> Python Project completed on the course </a>
 #### 🎉 Achievement Unlocked: IBM Data Visualization with Python 🐍📊
 I am excited to share that I have successfully completed the IBM Data Visualization with Python course! This course, comprising 5 comprehensive modules, has equipped me with the essential skills to transform raw data into compelling visual stories.
 
@@ -49,7 +49,7 @@ Feel free to check out some of the projects I’ve worked on as part of this cou
 
 #### Badge:
 <p align="center">
-  <img width= "230 height "150" src="https://ripon4t.github.io/Python/blob/main/data_visualisation%20badge.png">
+  <img width= "230 height "150" src="https://ripon4t.github.io/Viz_python/blob/main/data_visualisation%20badge.png">
 </p>
     
 As a proud recipient of the Coursera course certificate, I've also earned an IBM digital badge, marking a significant milestone in my data science journey.
